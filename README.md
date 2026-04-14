@@ -79,3 +79,5 @@ Part of the NOUMENON ecosystem.
 NOUMENON uses 17 specialized agents that debate before building.
 These templates are simplified, generic versions — useful starting points
 for your own multi-agent systems.
+---
+Built by [Noumenon](https://github.com/Noumenon-ai)
