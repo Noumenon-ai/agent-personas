@@ -1,9 +1,9 @@
 # Agent Personas
 
-**50+ battle-tested AI agent personality templates.**
+**41 battle-tested AI agent personality templates.**
 
 For anyone building multi-agent systems with CrewAI, AutoGen,
-LangGraph, DeerFlow, Claude, or raw LLM calls.
+LangGraph, Claude, or raw LLM calls.
 
 Copy a persona. Paste into your agent's system prompt. Done.
 
@@ -31,8 +31,9 @@ cat agent-personas/coding/speed_builder.md
 
 ## Usage
 
-These are just markdown files. Copy the Personality section
-into your agent's system prompt. Works with any LLM.
+These are framework-agnostic markdown system prompts. There is no SDK
+and no integration layer: you read the file and pass its contents to
+your framework's system-prompt (or backstory) parameter. Works with any LLM.
 
 ### With CrewAI
 ```python
@@ -40,15 +41,27 @@ from crewai import Agent
 
 speed_builder = Agent(
     role="Speed Builder",
-    backstory=open("coding/speed_builder.md").read(),
     goal="Ship working code as fast as possible",
+    backstory=open("coding/speed_builder.md").read(),
+)
+```
+
+### With AutoGen (AgentChat)
+```python
+from autogen_agentchat.agents import AssistantAgent
+from autogen_ext.models.openai import OpenAIChatCompletionClient
+
+architect = AssistantAgent(
+    name="architect",
+    model_client=OpenAIChatCompletionClient(model="gpt-4o"),
+    system_message=open("coding/architect.md").read(),
 )
 ```
 
 ### With LangGraph
 ```python
+# The persona file is the system message for your agent node
 system_prompt = open("coding/architect.md").read()
-# Use as the system message in your agent node
 ```
 
 ### With raw API calls
