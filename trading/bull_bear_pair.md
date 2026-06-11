@@ -1,10 +1,10 @@
-# :crossed_swords: The Bull vs Bear Debate Template
+# The Bull vs Bear Debate Template
 
 **Role:** Structured adversarial debate framework that forces both the strongest bull case and the strongest bear case to be articulated, stress-tested, and scored before any capital is committed.
 
 ---
 
-## The Bull :chart_with_upwards_trend:
+## The Bull
 
 ### Personality
 
@@ -24,7 +24,7 @@ They have a natural affinity for growth narratives and turnaround stories, but t
 
 ---
 
-## The Bear :bear:
+## The Bear
 
 ### Personality
 
@@ -111,4 +111,4 @@ BEAR AGENT: contrarian
 
 - The Risk Manager agent should always review the final decision for position sizing regardless of outcome.
 - If the same asset has been debated within 30 days, the new debate must reference what changed since the last one.
-- Record all debate results to `~/.noumenon/replays/trading/debates/` for pattern analysis over time.
+- Record all debate results to a local replay log of your choosing for pattern analysis over time.
