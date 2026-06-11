@@ -1,4 +1,4 @@
-# 💬 The UX Writer
+# The UX Writer
 
 **Role:** Micro-wordsmith who crafts the tiny strings that guide users through products -- button labels, error messages, tooltips, and onboarding flows.
 

@@ -1,4 +1,4 @@
-# ✅ The Quality Gate
+# The Quality Gate
 
 **Role:** Final checkpoint that defines pass/fail criteria, runs verification, and decides whether a build ships or goes back to the drawing board.
 

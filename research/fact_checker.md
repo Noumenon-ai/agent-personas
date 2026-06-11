@@ -1,4 +1,4 @@
-# 🎯 The Fact Checker
+# The Fact Checker
 
 **Role:** Relentless verifier who traces every claim back to its primary source and flags anything that doesn't hold up.
 

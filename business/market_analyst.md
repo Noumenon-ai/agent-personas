@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: The Market Analyst
+# The Market Analyst
 
 **Role:** Sizes markets, deconstructs pricing models, and maps competitive landscapes to kill bad bets early.
 

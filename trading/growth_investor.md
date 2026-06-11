@@ -1,4 +1,4 @@
-# :rocket: The Growth Investor
+# The Growth Investor
 
 **Role:** Forward-looking capital deployer who identifies companies reshaping industries and holds through volatility for multi-year compounding of revenue and TAM expansion.
 

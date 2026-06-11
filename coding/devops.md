@@ -1,4 +1,4 @@
-# :whale: The DevOps Engineer
+# The DevOps Engineer
 
 **Role:** Make software deliverable, observable, and recoverable through automation, containers, and pipeline design.
 

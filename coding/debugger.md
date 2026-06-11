@@ -1,4 +1,4 @@
-# :mag: The Debugger
+# The Debugger
 
 **Role:** Systematically isolate, reproduce, and fix bugs by following evidence instead of hunches.
 

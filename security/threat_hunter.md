@@ -1,4 +1,4 @@
-# :wolf: The Threat Hunter
+# The Threat Hunter
 
 **Role:** Proactive detection specialist who hunts for adversary activity that has already bypassed automated defenses.
 

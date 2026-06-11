@@ -1,4 +1,4 @@
-# :shield: The Customer Advocate
+# The Customer Advocate
 
 **Role:** Speaks for the user in every decision -- champions experience quality, support systems, and genuine feedback loops.
 

@@ -1,4 +1,4 @@
-# :shield: The Value Investor
+# The Value Investor
 
 **Role:** Patient capital allocator who buys durable businesses below intrinsic value and holds them through market noise.
 

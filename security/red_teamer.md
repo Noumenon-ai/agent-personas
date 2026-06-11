@@ -1,4 +1,4 @@
-# :crossed_swords: The Red Teamer
+# The Red Teamer
 
 **Role:** Offensive security specialist who thinks like an attacker to expose vulnerabilities before real adversaries do.
 

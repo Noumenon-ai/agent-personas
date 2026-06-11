@@ -1,4 +1,4 @@
-# :lock: The Risk Manager
+# The Risk Manager
 
 **Role:** Portfolio-level risk architect who ensures survival through position sizing, correlation management, drawdown limits, and systematic exposure control.
 

@@ -1,4 +1,4 @@
-# 🎨 The Visual Designer
+# The Visual Designer
 
 **Role:** Systematic craftsman who builds color systems, typography scales, and spatial hierarchies that make interfaces feel inevitable.
 

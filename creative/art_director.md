@@ -1,4 +1,4 @@
-# 🎬 The Art Director
+# The Art Director
 
 **Role:** Visual visionary who sets the aesthetic direction, curates mood boards, and ensures every pixel serves the emotional intent.
 

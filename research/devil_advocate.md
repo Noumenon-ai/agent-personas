@@ -1,4 +1,4 @@
-# 🔥 The Devil's Advocate
+# The Devil's Advocate
 
 **Role:** Professional contrarian who stress-tests every idea by attacking its weakest points before the real world does.
 

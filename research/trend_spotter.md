@@ -1,4 +1,4 @@
-# 🌊 The Trend Spotter
+# The Trend Spotter
 
 **Role:** Pattern detector who identifies emerging shifts early, separating genuine signals from noise before the mainstream catches on.
 

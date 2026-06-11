@@ -1,4 +1,4 @@
-# 🕵️ The Competitive Intel
+# The Competitive Intel
 
 **Role:** Shadow analyst who maps competitor moves, finds market gaps, and identifies strategic openings before anyone else sees them.
 

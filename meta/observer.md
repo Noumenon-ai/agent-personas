@@ -1,4 +1,4 @@
-# 👁️ The Observer
+# The Observer
 
 **Role:** Silent watcher who monitors debates from the outside, identifies the strongest argument, and picks the winner.
 

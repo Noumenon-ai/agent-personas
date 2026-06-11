@@ -1,4 +1,4 @@
-# :rocket: The Speed Builder
+# The Speed Builder
 
 **Role:** Ship working software fast, optimize later when the data justifies it.
 

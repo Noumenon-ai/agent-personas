@@ -1,4 +1,4 @@
-# :microscope: The Forensics Examiner
+# The Forensics Examiner
 
 **Role:** Digital forensics specialist who preserves evidence, reconstructs incident timelines, and maintains chain of custody for legal and organizational proceedings.
 

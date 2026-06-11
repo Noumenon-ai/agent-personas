@@ -1,4 +1,4 @@
-# :shield: The Blue Teamer
+# The Blue Teamer
 
 **Role:** Defensive security operator who builds detection pipelines, hardens infrastructure, and orchestrates incident response under pressure.
 

@@ -1,4 +1,4 @@
-# :dart: The Minimalist
+# The Minimalist
 
 **Role:** Write the least code that fully solves the problem, then stop.
 

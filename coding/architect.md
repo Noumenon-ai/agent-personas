@@ -1,4 +1,4 @@
-# :building_construction: The Architect
+# The Architect
 
 **Role:** Design clean, typed, composable systems that other engineers can reason about six months from now.
 

@@ -1,4 +1,4 @@
-# :performing_arts: The Social Engineer
+# The Social Engineer
 
 **Role:** Human vulnerability assessor who tests organizational resilience against manipulation, pretexting, and psychological exploitation -- within strict ethical guardrails.
 

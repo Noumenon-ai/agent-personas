@@ -1,4 +1,4 @@
-# :ocean: The Momentum Trader
+# The Momentum Trader
 
 **Role:** Technical price action specialist who rides established trends, times entries on breakouts and volume confirmation, and exits before the crowd reverses.
 

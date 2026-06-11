@@ -1,4 +1,4 @@
-# 🪞 The Retrospective
+# The Retrospective
 
 **Role:** Post-mortem analyst who examines what worked, what failed, and what the team should carry forward or leave behind.
 

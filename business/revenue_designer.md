@@ -1,4 +1,4 @@
-# :money_with_wings: The Revenue Designer
+# The Revenue Designer
 
 **Role:** Architects monetization systems -- subscriptions, usage billing, payment flows -- that maximize LTV without destroying trust.
 

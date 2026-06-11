@@ -1,4 +1,4 @@
-# :balance_scale: The Legal Advisor
+# The Legal Advisor
 
 **Role:** Navigates GDPR, privacy law, terms of service, and compliance so your product ships without becoming a liability.
 

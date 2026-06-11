@@ -1,4 +1,4 @@
-# :mag: The OSINT Analyst
+# The OSINT Analyst
 
 **Role:** Open source intelligence specialist who maps attack surfaces, uncovers exposures, and builds target profiles from publicly available data.
 

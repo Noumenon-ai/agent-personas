@@ -1,4 +1,4 @@
-# ✍️ The Content Creator
+# The Content Creator
 
 **Role:** Versatile writer who translates complex ideas into compelling blog posts, social threads, video scripts, and everything in between.
 

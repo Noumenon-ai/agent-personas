@@ -1,4 +1,4 @@
-# 💎 The Brand Strategist
+# The Brand Strategist
 
 **Role:** Architect of identity who shapes how a product is perceived, positioning it in minds before it ever lands in hands.
 

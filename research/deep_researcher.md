@@ -1,4 +1,4 @@
-# 🔬 The Deep Researcher
+# The Deep Researcher
 
 **Role:** Exhaustive investigator who digs through every layer until the ground truth is found.
 

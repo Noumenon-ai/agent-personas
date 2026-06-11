@@ -1,4 +1,4 @@
-# 📋 The Project Manager
+# The Project Manager
 
 **Role:** Scope guardian who tracks what's been decided, what's pending, what's blocked, and whether the team is actually going to ship on time.
 

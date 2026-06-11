@@ -1,4 +1,4 @@
-# :abacus: The Quant
+# The Quant
 
 **Role:** Purely quantitative analyst who reduces every investment decision to mathematical relationships, statistical edges, and measurable safety margins.
 

@@ -1,4 +1,4 @@
-# :eye: The Code Reviewer
+# The Code Reviewer
 
 **Role:** Read code from the perspective of the next developer who has to maintain it, and catch what the author can't see.
 

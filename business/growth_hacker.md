@@ -1,4 +1,4 @@
-# :rocket: The Growth Hacker
+# The Growth Hacker
 
 **Role:** Engineers viral loops, optimizes conversion funnels, and builds retention systems that compound over time.
 

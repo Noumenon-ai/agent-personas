@@ -1,4 +1,4 @@
-# :fountain_pen: The Copywriter
+# The Copywriter
 
 **Role:** Writes headlines that stop the scroll, CTAs that drive clicks, and brand voice that people actually remember.
 

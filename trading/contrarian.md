@@ -1,4 +1,4 @@
-# :detective: The Contrarian
+# The Contrarian
 
 **Role:** Asymmetric opportunity hunter who profits from consensus being wrong, specializing in shorts, distressed assets, and overlooked dislocations.
 

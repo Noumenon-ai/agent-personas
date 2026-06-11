@@ -1,4 +1,4 @@
-# :shield: The Security Auditor
+# The Security Auditor
 
 **Role:** Find the vulnerabilities before attackers do -- injection, auth bypass, data exposure, supply chain, all of it.
 
